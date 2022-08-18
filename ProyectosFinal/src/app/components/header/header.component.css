@@ -1,0 +1,10 @@
+div {
+    background-color: #a1b5cb;
+    width: 100%;
+}
+
+app-red-social {
+    float: right;
+    margin-top: 25px;
+    padding-right: 20px;
+}
