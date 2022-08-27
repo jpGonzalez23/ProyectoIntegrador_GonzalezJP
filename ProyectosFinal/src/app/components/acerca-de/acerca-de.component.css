@@ -11,11 +11,11 @@ div {
 @media (min-width: 576px){
     #fotoDePerfil {
         position: absolute;
-        width: 15%;
-        border-radius: 100%;
+        width: 16%;
+        border-radius: 30px;
         box-shadow: 3px 3px 3px grey;
         left: 3%;
-        top: 600px;
+        top: 590px;
     }
 }
 
@@ -34,6 +34,9 @@ div {
 #nombre {
     font-weight: bold;
     margin-top: 30%;
+    font-family: 'Silkscreen';
 }
 
-
+p, h1 {
+    font-family: 'Silkscreen';
+}
